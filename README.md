@@ -23,6 +23,8 @@ Using PyTorch, we trained a Unet architecture from @milesial with a batch size o
 
 ## Results *: What did we observe? Figures are great!*
 
+![Test Image 1](imex1.png)
+
 ## Conclusion/Discussion: 
 
 ### Please make sure you address ALL of the following:
